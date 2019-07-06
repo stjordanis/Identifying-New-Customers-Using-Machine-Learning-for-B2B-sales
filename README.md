@@ -3,6 +3,9 @@
 Uncover hidden opportunity to grow sales faster by finding potential customers that would be interested in buying within a B2B context. 
 Therefore, this codebase does not solely have an academic value but also a commercial purpose that delivers high business value as well.
 
+This image below shows the best businesses to contact from an exhastive B2B sales prospecting list in blue:
+![github-small](performance.png)
+
 #### Highlights
 
 * Produces Machine Learning models to identify potential customers in a B2B-sales context
