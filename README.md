@@ -17,7 +17,7 @@ Therefore, this codebase does not solely have an academic value but also a comme
 
 #### Map your sales data to the starter model below:
 
-![img/starter-feature-model.png](starter-feature-model.png)
+![github-small](img/starter-feature-model.png)
 
 
 #### Tips
