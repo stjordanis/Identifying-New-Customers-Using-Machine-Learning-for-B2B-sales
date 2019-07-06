@@ -17,6 +17,8 @@ Therefore, this codebase does not solely have an academic value but also a comme
 
 #### Map your sales data to the starter model below:
 
+Use this as boilerplate to get started, you will want to make your own custom model as you go along with your machine learning experiments of your sales data:
+
 ![github-small](img/starter-feature-model.png)
 
 
