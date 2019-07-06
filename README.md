@@ -22,14 +22,13 @@ Therefore, this codebase does not solely have an academic value but also a comme
 
 #### Tips
 
-    You can compare the performance of the estimator using the F1 score, precision and recall for whatever model you end up using.
+* You can compare the performance of the estimator using the F1 score, precision and recall for whatever model you end up using.
 
-    Typical results show that AdaPULearning (Adaptive PU Learning, as presented in the cited paper) greatly increases the performance of an estimator (depedning upon the model up to 4.8 times).
-    In the case where the negative examples are contaminated with positive examples. We call this situation positive and unlabled learning.
+* Typical results show that AdaPULearning (Adaptive PU Learning, as presented in the cited paper) greatly increases the performance of an estimator (depedning upon the model up to 4.8 times).In the case where the negative examples are contaminated with positive examples. We call this situation positive and unlabled learning.
     
-    These models are candidates for transfer learning or from LinkedIn, Dunn & Bradstreet APIs found here: https://developer.dnb.com/, that you could convert into a graph and gain increased sales growth from
-    this PU Learning example on Graph Data. 
-    
+* These models are candidates for transfer learning or leveraging data from LinkedIn & Dunn & Bradstreet APIs found here: https://developer.dnb.com/, that you could transform into a graph and gain increased sales growth from this PU Learning example on Graph Data. 
+
+* If you need help with the above, my contact info is below...
 
 ### Email Contact
 
