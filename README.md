@@ -3,6 +3,8 @@
 Uncover hidden opportunity to grow sales faster by finding potential customers that would be interested in buying within a B2B context. 
 Therefore, this codebase does not solely have an academic value but also a commercial purpose that delivers high business value as well.
 
+* This can be used to augment my other project,(AI & Machine Learning For Predictive Lead Scoring)[https://github.com/joehoeller/Machine-Learning-For-Predictive-Lead-Scoring].
+
 This image below shows the best businesses to contact from an exhastive B2B sales prospecting list in blue:
 
 ![github-small](performance.png)
