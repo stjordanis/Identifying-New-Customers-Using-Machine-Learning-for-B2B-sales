@@ -15,7 +15,6 @@ This image below shows the best businesses to contact from an exhastive B2B sale
 * Produces Machine Learning models to identify potential customers in a B2B-sales context
 * Adaptive PU Learning (AdaPULearning) performs up to 4.8 times better than a random baseline classifier to find new prospects in B2B sales
 * PU-learning Using an Adapted Classifier as proposed by: PATRIK NORLIN, VIKTOR PAULSRUD in their paper: "Identifying New Customers: Using Machine Learning A case study on B2B-sales in the Swedish IT-consulting sector
-* Link to paper which is also included in this repo: https://pdfs.semanticscholar.org/9813/21d9f06a51110d6585bce4dcc14f624acbc0.pdf
 
 #### Data modeling instructions
 
